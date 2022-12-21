@@ -1,0 +1,60 @@
+img{
+    height: 600px;
+    width: 8000;
+object-fit: cover;
+}
+h1 {
+    color: red;
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+color: white;
+}
+h3 {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-weight: 5;
+color: white;
+}
+.box{
+    width: .01px;
+    height: 500px;
+    border: 500px solid rgb(35, 4, 84);
+    margin: auto;
+    color: rgb(246, 241, 241);
+    }
+   
+    h4{
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        text-align: left;
+        border-top: 50cm;
+        bottom: 10;
+
+
+    }
+
+    .name{
+        width: 80%;
+        padding-left: 50%;
+        text-justify: ;
+
+    }
+ .rect {
+    height: 600px;  
+    width: 800px;
+    background-color: rgb(18, 11, 83); 
+    color: blueviolet; 
+  
+
+ }                                  
+input{
+    width: 90%;
+
+} 
+.checkbox {
+   padding: 100cm;
+   
+    
+}
